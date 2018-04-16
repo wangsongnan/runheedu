@@ -1,0 +1,1070 @@
+body {
+    text-align: center;
+    font-family: "微软雅黑";
+    width: 100%;
+    background-color: #f5f5f5;
+}
+
+body, div, ul, li, p {
+    margin: 0;
+    padding: 0;
+    display: block;
+    list-style: none;
+}
+
+a:hover, a:visited, a:link, a:active {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+img {
+    border: none;
+    padding: 0;
+    margin: 0;
+    max-width: 100%;
+}
+
+.header {
+    background: url("../images/banner.jpg") no-repeat center center;
+    height: 654px;
+    width: 100%;
+    background-size: cover;
+}
+
+.banm1 img {
+    margin: 180px 80px 0 0;
+}
+
+.headerimg {
+    background: url("../images/bannerBiaoBack.png") no-repeat center center;
+    height: 386px;
+    width: 344px;
+    position: absolute;
+    top: 20%;
+    left: 60%;
+}
+
+.bdwap {
+    display: none;
+}
+
+.frm {
+    padding: 6px;
+}
+
+.fromSpan {
+    font-size: 26px;
+    margin: 58px 0 20px 0;
+}
+
+.fromspam {
+    color: #2b93cf;
+}
+
+.froms {
+    margin: 6px;
+    height: 40px;
+    border-radius: 4px;
+    border: #3682bb 1px solid;
+    font-size: 18px;
+}
+
+.maintxt {
+    margin: 2px auto;
+    width: 750px;
+    font-size: 20px;
+}
+
+.bt {
+    background-color: #3682bb;
+    color: #ffffff;
+    width: 66%;
+}
+
+.inner {
+    width: 1200px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.main1 {
+    background-color: #e8f1f7;
+    height: 1109px;
+    width: 100%;
+    background-size: cover;
+}
+
+.biaoti {
+    padding: 52px;
+    font-size: 36px;
+    color: #3682bb;
+}
+
+.blackSpan {
+    color: #000000;
+}
+
+.mainul {
+    width: 888px;
+    margin: 40px auto;
+}
+
+.mainul1 {
+    overflow: hidden;
+    zoom: 1;
+    color: #ffffff;
+}
+
+.mainul1li {
+    width: 158px;
+    height: 236px;
+    margin: 8px;
+    text-align: left;
+    float: left;
+    padding: 0 24px;
+}
+
+#mainul1li1 {
+    background: #f17483;
+}
+
+#mainul1li2 {
+    background: #5ec1ef;
+}
+
+#mainul1li3 {
+    background: #eeb248;
+}
+
+#mainul1li4 {
+    background: #47cfba;
+}
+
+.lispan {
+    font-size: 20px;
+
+}
+
+.albutton {
+    text-align: center;
+    margin: 40px 0 48px;
+}
+
+.albutton a {
+    display: inline-block;
+    background: url("../images/button.png") no-repeat center center;
+    width: 221px;
+    height: 44px;
+    margin: auto;
+    text-align: center;
+}
+
+.buttonSpan {
+    font-size: 22px;
+    color: #ffffff;
+    line-height: 40px;
+}
+
+.main2 {
+    background-color: #d8eaf4;
+    height: 728px;
+    width: 100%;
+    background-size: cover;
+}
+
+.main3 {
+    height: 724px;
+}
+
+.main3ul1 {
+    display: inline;
+}
+
+.main3li1 {
+    float: left;
+}
+
+.main3name {
+    font-size: 28px;
+}
+
+.main3ul2 {
+    margin: 30px 90px 50px;
+}
+
+.main3wz {
+    font-size: 22px;
+}
+
+.winnerli {
+    background: url("../images/winnerli.png") no-repeat center center;
+    width: 214px;
+    height: 295px;
+}
+
+.winnerlispan {
+    width: 158px;
+    height: 195px;
+    padding: 50px 28px;
+    text-align: left;
+    word-break: break-all;
+    word-wrap: break-word;
+}
+
+.main4 {
+    background-color: #ffffff;
+    height: 1162px;
+    width: 100%;
+    background-size: cover;
+}
+
+.main5 {
+    background-color: #ffffff;
+    height: 886px;
+    width: 100%;
+    background-size: cover;
+}
+
+.main5p {
+    line-height: 50px;
+}
+
+.main6 {
+    background-color: #d8eaf4;
+    height: 914px;
+    width: 100%;
+    background-size: cover;
+}
+
+.main8 {
+    background-color: #d8eaf4;
+    height: 564px;
+    width: 100%;
+    background-size: cover;
+}
+
+.main8ul {
+    width: 1080px;
+    overflow: hidden;
+}
+
+.main8fw {
+    width: 140px;
+    height: 360px;
+    float: left;
+    margin: 0 8px;
+    padding: 0 30px;
+    background-color: #ffffff;
+}
+
+.main8yuan {
+    width: 128px;
+    height: 128px;
+    border-radius: 64px;
+    margin: 26px 6px;
+    color: #ffffff;
+    text-align: center;
+}
+
+#main8yuan1 {
+    background-color: #298ec8;
+}
+
+#main8yuan2 {
+    background-color: #e9514b;
+}
+
+#main8yuan3 {
+    background-color: #605de5;
+}
+
+#main8yuan4 {
+    background-color: #eb6b1a;
+}
+
+#main8yuan5 {
+    background-color: #9dcb28;
+}
+
+.main8sbt {
+    font-size: 28px;
+
+}
+
+.main8sp {
+    font-size: 20px;
+}
+
+.main8spans {
+    font-size: 20px;
+    text-align: left;
+}
+
+.main9 {
+    background: url("../images/main9.png") no-repeat center center;
+    height: 500px;
+    width: 100%;
+    background-size: cover;
+    text-align: center;
+    padding: 92px 0;
+}
+
+.main9bd {
+    background: url("../images/main9bdBack.png") no-repeat center center;
+}
+
+.main9bdSP {
+    font-size: 30px;
+}
+
+.main9txt {
+    width: 356px;
+    font-size: 18px;
+    margin: 6px;
+    height: 42px;
+    border-radius: 4px;
+    border: #8d8d8d 1px solid;
+}
+
+.main9ly {
+    border-radius: 4px;
+    border: #8d8d8d 1px solid;
+    font-size: 18px;
+    width: 356px;
+    height: 128px;
+    margin: 6px;
+}
+
+.main9bt {
+    margin: 6px 0 56px;
+    height: 40px;
+    border-radius: 4px;
+    border: #e6691a 1px solid;
+    font-size: 18px;
+    background-color: #e6691a;
+    color: #ffffff;
+    width: 112px;
+}
+
+.footer {
+    background-color: #2b93cf;
+    height: 144px;
+    width: 100%;
+    background-size: cover;
+    padding: 50px 0;
+    font-size: 16px;
+    line-height: 40px;
+    color: #ffffff;
+}
+
+#fuku {
+    text-align: center;
+    padding: 0;
+    position: fixed;
+    bottom: 0;
+    background-color: #fff;
+    min-width: inherit;
+    width: 100%;
+    display: none;
+}
+
+.inner1 {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.fl {
+    float: left;
+}
+
+.fr {
+    float: right;
+}
+
+.header1 .lgtel {
+    padding-top: 15px;
+    height: 85px;
+}
+
+.header1 .lgtel .logo a img {
+    height: 75px;
+}
+
+.header1 .lgtel .tel {
+    background: url(../images/index_05.png) no-repeat left center;
+    padding-left: 60px;
+    height: 70px;
+}
+
+.header1 .lgtel .tel span {
+    font-size: 22px;
+    color: #081a24;
+}
+
+.header1 .lgtel .tel em {
+    font-size: 34px;
+    color: #3ed5d8;
+    margin-top: 10px;
+    height: 34px;
+    line-height: 34px;
+}
+
+.header1 .nav {
+    background-color: #6ae7b5;
+    height: 80px;
+    line-height: 80px;
+    font-size: 20px;
+}
+
+.header1 .nav ul li {
+    width: 171px;
+    text-align: center;
+    position: relative;
+    float: left;
+}
+
+.header1 .nav ul li a {
+    color: #fff;
+}
+
+.header1 .nav ul li.current, .header .nav ul li:hover {
+    background: #56dfc5 url(../images/nav_bg.png) no-repeat center 68px;
+}
+
+.header1 .nav ul li:hover a, .header .nav ul li p a:hover, .header .nav ul li.current a {
+    color: #000;
+}
+
+.header1 .nav ul li p {
+    display: none;
+    position: absolute;
+    left: 0;
+    top: 80px;
+    background: url(../images/snav_bg.png) repeat left top;
+    line-height: 30px;
+    font-size: 16px;
+    text-align: center;
+    z-index: 9999;
+}
+
+.header1 .nav ul li:hover p {
+    display: block;
+}
+
+.header1 .nav ul li p a {
+    display: inline-block;
+    margin: 20px 80px;
+    color: #fff;
+    z-index: 9999;
+}
+
+.header1 .nav ul li p a img {
+    width: 54px;
+    height: 54px;
+}
+
+.header1 .nav ul li:hover p a {
+    color: #fff;
+}
+
+.header1 .nav ul li:hover p a:hover {
+    color: #000;
+}
+
+.header1 .nav ul li #nav1 {
+    width: 1000px;
+}
+
+.header1 .nav ul li #nav2 {
+    width: 820px;
+}
+
+.header1 .nav ul li #nav3 {
+    width: 660px;
+}
+
+.header1 .nav ul li #nav4 {
+    width: 660px;
+    left: inherit;
+    right: 0;
+}
+
+.header1 .nav ul li #nav5 {
+    width: 820px;
+    left: inherit;
+    right: 0;
+}
+
+.header1 .nav ul li #nav6 {
+    width: 1000px;
+    left: inherit;
+    right: 0;
+    display: none;
+}
+
+.pc {
+    display: block;
+}
+
+.wap {
+    display: none;
+}
+
+.footerpc {
+    display: block;
+}
+
+.footerap {
+    display: none;
+}
+
+.logowap {
+    display: none;
+}
+
+@media screen and (max-width: 1024px) {
+    .inner {
+        width: 100%;
+    }
+
+    .pc {
+        display: none;
+    }
+
+    .wap {
+        display: block;
+    }
+
+    .bdwap {
+        display: block;
+        height: 400px;
+    }
+
+    .fromSpan {
+        margin: 20px;
+    }
+
+    .headerimg {
+        position: inherit;
+        margin: 0 360px 0;
+    }
+
+    .inner1 {
+        width: 100%;
+        overflow: hidden;
+    }
+
+    .header {
+        height: 440px;
+    }
+
+    .header1 {
+        position: relative;
+    }
+
+    .header1 .lgtel .logo a img {
+        max-width: 280px;
+        height: 50px;
+        margin-left: 10px;
+    }
+
+    .header1 .lgtel {
+        height: 65px;
+    }
+
+    .header1 .lgtel img {
+        height: 46px;
+    }
+
+    .header1 .wnav {
+        padding-right: 15px;
+    }
+
+    .header1 .wnav .wnavcont {
+        display: none;
+        position: absolute;
+        z-index: 9999;
+        top: 79px;
+        right: -10px;
+        width: auto;
+        height: auto;
+        text-align: center;
+    }
+
+    .header1 .wnav .wnavcont a {
+        display: block;
+        height: 45px;
+        line-height: 45px;
+        border-bottom: #ccc 1px solid;
+        color: #fff;
+        background-color: #3f7ead;
+        width: 280px;
+        text-align: center;
+        font-size: 18px;
+        z-index: 9999;
+    }
+
+    .main1 {
+        height: 1200px;
+    }
+
+    .main5 {
+        height: 1040px;
+    }
+
+    .main8fw {
+        padding: 0 20px;
+    }
+
+    .banm1 img {
+        width: 88%;
+        margin: 50px 0 0 0;
+    }
+
+    .bannerbd {
+        display: none;
+    }
+
+    .mainer img {
+        width: 88%;
+    }
+
+    .lispan {
+        font-size: 24px;
+    }
+
+    .main3wz {
+        font-size: 24px;
+    }
+
+    .winnerlispan {
+        width: 158px;
+        height: 195px;
+        padding: 50px 28px;
+        text-align: left;
+        word-break: break-all;
+        word-wrap: break-word;
+        font-size: 18px;
+    }
+
+    .mainul1li {
+        margin: 0 18px;
+    }
+
+    .main3 {
+        height: 800px;
+    }
+
+    .main3ul2 {
+        margin: 30px 56px 50px;
+    }
+
+    .biaoti {
+        padding: 52px 0;
+    }
+
+    .main9bdSP {
+        font-size: 24px;
+    }
+
+    .footer {
+        background-color: #2b93cf;
+        height: 244px;
+        width: 100%;
+        background-size: cover;
+        padding: 50px 0;
+        font-size: 26px;
+        line-height: 40px;
+        color: #ffffff;
+    }
+
+    .footerpc {
+        display: none;
+    }
+
+    .footerap {
+        display: block;
+    }
+
+    .footerap p {
+        font-size: 32px;
+    }
+
+    #fuku {
+        display: block;
+    }
+
+    .fuku a {
+        width: 46%;
+    }
+
+    .fuku img {
+        width: 48%;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .headerimg {
+        background: none;
+        margin: 0 220px;
+    }
+
+    .froms {
+        width: 300px;
+    }
+
+    .bdwap {
+        height: 300px;
+    }
+
+    .main1 {
+        height: 1120px;
+    }
+
+    .mainul1 {
+        margin: 20px;
+    }
+
+    .mainul1li {
+        margin: 0;
+        width: 130px;
+        height: 260px;
+    }
+
+    .lispan {
+        font-size: 20px;
+    }
+
+    .maintxt {
+        width: 700px;
+    }
+
+    .main2 {
+        height: 600px;
+    }
+
+    .main3 {
+        height: 770px;
+    }
+
+    .main4 {
+        height: 900px;
+    }
+
+    .main5 {
+        height: 860px;
+    }
+
+    .main6 {
+        height: 700px;
+    }
+
+    .main8 {
+        height: 920px;
+    }
+
+    .main8fw {
+        margin: 4px 38px;
+    }
+
+    .main9 {
+        padding: 4px 0;
+        height: 400px;
+    }
+
+    .main9bd {
+        background: none;
+
+    }
+
+    .main3ul2 {
+        margin: 30px 18px 0;
+    }
+
+    .biaoti {
+        padding: 52px 0;
+    }
+
+    .footer {
+        padding: 24px 0;
+    }
+
+    .footerap p {
+        font-size: 24px;
+    }
+}
+
+@media screen and (max-width: 414px) {
+    .header1 .lgtel .logo a img {
+        max-width: 320px;
+        height: 50px;
+        margin-left: 10px;
+    }
+    .fwa{
+        height: 50px;;
+        width: 280px;
+        background: url(../images/waplogo.png) no-repeat;
+        background-size: 100% 100%;
+    }
+
+    .logopc {
+        display: none;
+    }
+
+    .logowap {
+        display: block;
+    }
+
+    .header {
+        height: 240px;
+    }
+
+    .headerimg {
+        margin: 0 0 0 40px;
+    }
+
+    .main1 {
+        height: 1200px;
+    }
+
+    .biaoti {
+        padding: 52px 0;
+        font-size: 22px;
+    }
+
+    .lispan {
+        font-size: 18px;
+    }
+
+    .mainul1li {
+        width: 100px;
+        margin: 10px 18px;
+    }
+
+    .maintxt {
+        width: 370px;
+        font-size: 16px;
+    }
+
+    .albutton {
+        margin: 20px 0;
+    }
+
+    .main2 {
+        height: 460px;
+    }
+
+    .main3 {
+        height: 1920px;
+    }
+
+    .main3ul2 {
+        margin: 20px 100px;
+    }
+
+    .main3name {
+        font-size: 24px;
+    }
+
+    .main3wz {
+        font-size: 20px;
+    }
+
+    .winnerlispan {
+        font-size: 16px;
+    }
+
+    .main4 {
+        height: 600px;
+    }
+
+    .main5 {
+        height: 580px;
+    }
+
+    .main5p {
+        line-height: 28px;
+        width: 300px;
+        margin: auto;
+
+    }
+
+    .main6 {
+        height: 520px;
+    }
+
+    .main8 {
+        height: 1040px;
+    }
+
+    .main8fw {
+
+    }
+
+    .main8yuan {
+        margin: 8px 0;
+        width: 100px;
+        height: 100px;
+        border-radius: 50px;
+    }
+
+    .main8spans {
+        font-size: 16px;
+    }
+
+    .main8sbt {
+        font-size: 24px;
+    }
+
+    .main8fw {
+        margin: 8px 28px;
+        height: 280px;
+        width: 100px;
+    }
+
+    .main8sp {
+        font-size: 18px;
+    }
+
+    .main9 {
+        padding: 10px 0;
+        height: 440px;
+    }
+
+    .main9bd {
+        background: none;
+    }
+
+    .main9ly {
+        width: 300px;
+    }
+
+    .main9txt {
+        width: 300px;
+    }
+
+    .footer {
+        background-color: #2b93cf;
+        height: 100px;
+        width: 100%;
+        background-size: cover;
+        padding: 10px 0 50px 0;
+        font-size: 26px;
+        line-height: 28px;
+        color: #ffffff;
+    }
+
+    .footerap p {
+        font-size: 16px;
+    }
+
+    .header1 .wnav .wnavcont a {
+        width: 180px;
+    }
+}
+
+@media screen and (max-width: 410px){
+    .main8fw {
+        margin: 8px 20px;
+        height: 280px;
+        width: 100px;
+    }
+}
+@media screen and (max-width: 375px) {
+    .header1 .lgtel .logo a img {
+        max-width: 280px;
+    }
+
+    .main8fw {
+        margin: 8px 22px;
+    }
+
+    .headerimg {
+        margin: 0 0 0 12px;
+    }
+
+    .maintxt {
+        width: 335px;
+    }
+
+    .froms {
+        width: 260px;
+    }
+
+    .mainul1li {
+        margin: 8px;
+    }
+
+    .main3ul2 {
+        margin: 20px 80px;
+    }
+
+    .main5p {
+        width: 300px;
+        margin: auto;
+    }
+
+}
+
+@media screen and (max-width: 360px) {
+    .header1 .lgtel .logo a img {
+        max-width: 240px;
+    }
+
+    .headerimg {
+        margin: 0 0 0 2px;
+    }
+
+    .mainul1li {
+        margin: 6px;
+    }
+
+    .main3ul2 {
+        margin: 20px 70px;
+    }
+
+    .main9 {
+        height: 420px;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .headerimg {
+        margin: 0;
+        width: 300px;
+    }
+
+    .fromSpan {
+        font-size: 20px;
+        margin: 4px;
+    }
+
+    .froms {
+        width: 220px;
+    }
+
+    .frm {
+        padding: 0;
+    }
+
+    .biaoti {
+        font-size: 18px;
+    }
+
+    .mainul1li {
+        width: 80px;
+        margin: 2px;
+    }
+
+    .maintxt {
+        width: 260px;
+    }
+
+    .main3ul2 {
+        margin: 20px 52px;
+    }
+
+    .main8fw {
+        margin: 8px 10px;
+    }
+}

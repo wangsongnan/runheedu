@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>跳转中</title>
+    <script type="text/javascript">
+        function countDown(secs, surl) {
+
+            var jumpTo = document.getElementById('jumpTo');
+            jumpTo.innerHTML = secs;
+            if (--secs > 0) {
+                setTimeout("countDown(" + secs + ",'" + surl + "')", 1000);
+            }
+            else {
+                location.href = surl;
+            }
+        }
+    </script>
+    <script>
+        window.console.log && (console.log("个人"), console.log("不做商业用途"))
+    </script>
+    <style>
+        body{
+            text-align: center;
+            font-size: 30px;
+        }
+        #jumpTo{
+            font-size: 38px;
+            color: red;
+        }
+    </style>
+</head>
+<body>
+提交成功，<span id="jumpTo">5</span>秒后自动跳转回首页...
+<script type="text/javascript">countDown(5, '../home.html');</script>
+
+</body>
+</html>
